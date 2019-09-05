@@ -25,4 +25,4 @@ function reset() {
 }
 
 document.getElementById("reset").onclick = reset;
-initializeGrid(2);
+initializeGrid(5);
