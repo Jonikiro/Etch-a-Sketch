@@ -1,0 +1,12 @@
+#container {
+    margin: auto;
+    width: 960px;
+    height: 960px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+#reset {
+    margin: 0 auto;
+    display: block;
+}
